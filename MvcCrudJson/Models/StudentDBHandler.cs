@@ -43,7 +43,12 @@ namespace MvcCrudJson.Models
             {
                 StudentList = new List<StudentModel>();
             }
+            // Find the maximum ID (if any students exist)
+            int maxId = StudentList.Any() ? StudentList.Max(student => student.ID) : 0;
 
+            // Add your new student with an ID one higher than the max
+            iList.ID = maxId + 1; // Assuming ID is an integer
+            
             StudentList.Add(iList);
 
             System.IO.File.WriteAllText(StudentFile, JsonConvert.SerializeObject(StudentList));

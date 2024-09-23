@@ -37,7 +37,8 @@
         @Html.DisplayFor(modelItem => item.Name)
     </td>
     <td>
-        @item.DateOfBirth.ToString("dd/MM/yyyy")
+        @Html.DisplayFor(modelItem => item.DateOfBirth)
+        
     </td>
     <td>
         @Html.DisplayFor(modelItem => item.Grade)
