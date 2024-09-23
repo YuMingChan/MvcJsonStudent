@@ -1,0 +1,62 @@
+﻿[
+  {
+    "ID": 1,
+    "Name": "Alice Johnson",
+    "DateOfBirth": "2005-01-15T00:00:00",
+    "Grade": "10A"
+  },
+  {
+    "ID": 2,
+    "Name": "Bob Smith",
+    "DateOfBirth": "2004-07-20T00:00:00",
+    "Grade": "10B"
+  },
+  {
+    "ID": 3,
+    "Name": "Charlie Brown",
+    "DateOfBirth": "2006-12-05T00:00:00",
+    "Grade": "10C"
+  },
+  {
+    "ID": 4,
+    "Name": "David Lee",
+    "DateOfBirth": "2005-03-10T00:00:00",
+    "Grade": "10A"
+  },
+  {
+    "ID": 5,
+    "Name": "Emily Davis",
+    "DateOfBirth": "2004-09-25T00:00:00",
+    "Grade": "10B"
+  },
+  {
+    "ID": 6,
+    "Name": "Frank Wilson",
+    "DateOfBirth": "2006-02-18T00:00:00",
+    "Grade": "10C"
+  },
+  {
+    "ID": 7,
+    "Name": "Grace Harris",
+    "DateOfBirth": "2005-05-22T00:00:00",
+    "Grade": "10A"
+  },
+  {
+    "ID": 8,
+    "Name": "Henry Turner",
+    "DateOfBirth": "2004-11-08T00:00:00",
+    "Grade": "10B"
+  },
+  {
+    "ID": 9,
+    "Name": "Isabella Baker",
+    "DateOfBirth": "2006-04-13T00:00:00",
+    "Grade": "10C"
+  },
+  {
+    "ID": 10,
+    "Name": "Jacob Carter",
+    "DateOfBirth": "2005-07-07T00:00:00",
+    "Grade": "10A"
+  }
+]
